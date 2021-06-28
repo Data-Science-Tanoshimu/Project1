@@ -1,4 +1,4 @@
-# Project 1: The SAT and The ACT Analysis
+# The SAT and The ACT Analysis
 
 ### Problem Statement
 
